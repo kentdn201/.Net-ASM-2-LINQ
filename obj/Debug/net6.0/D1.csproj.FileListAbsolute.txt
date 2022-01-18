@@ -1,0 +1,30 @@
+D:\code\D1\bin\Debug\net6.0\D1.exe
+D:\code\D1\bin\Debug\net6.0\D1.deps.json
+D:\code\D1\bin\Debug\net6.0\D1.runtimeconfig.json
+D:\code\D1\bin\Debug\net6.0\D1.dll
+D:\code\D1\bin\Debug\net6.0\ref\D1.dll
+D:\code\D1\bin\Debug\net6.0\D1.pdb
+D:\code\D1\obj\Debug\net6.0\D1.csproj.AssemblyReference.cache
+D:\code\D1\obj\Debug\net6.0\D1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\D1\obj\Debug\net6.0\D1.AssemblyInfoInputs.cache
+D:\code\D1\obj\Debug\net6.0\D1.AssemblyInfo.cs
+D:\code\D1\obj\Debug\net6.0\D1.csproj.CoreCompileInputs.cache
+D:\code\D1\obj\Debug\net6.0\D1.dll
+D:\code\D1\obj\Debug\net6.0\ref\D1.dll
+D:\code\D1\obj\Debug\net6.0\D1.pdb
+D:\code\D1\obj\Debug\net6.0\D1.genruntimeconfig.cache
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.csproj.AssemblyReference.cache
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.AssemblyInfoInputs.cache
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.AssemblyInfo.cs
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.csproj.CoreCompileInputs.cache
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.dll
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\ref\D1.dll
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.pdb
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\D1.exe
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\D1.deps.json
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\D1.runtimeconfig.json
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\D1.dll
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\ref\D1.dll
+D:\code\C#\D2 - LINQ\bin\Debug\net6.0\D1.pdb
+D:\code\C#\D2 - LINQ\obj\Debug\net6.0\D1.genruntimeconfig.cache
